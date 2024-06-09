@@ -1,1 +1,1 @@
-my example CRUD app
+This is my public key fingerprint: B468 22FA 827E B7B5 2764  57C6 304B 146D EA2E 1385
